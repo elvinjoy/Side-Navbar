@@ -45,8 +45,8 @@ const Navbar = () => {
                     <ul className="sidebar-menu">
                         <li><a href="#">Home</a></li>
                         <li><a href="#">Print Your Canvas</a></li>
-                        {/* <li><a href="#">Art Gallery</a></li>
-                        <li><a href="#">Wish list</a></li> */}
+                        <li><a href="#">Art Gallery</a></li>
+                        <li><a href="#">Wish list</a></li>
                         <li><a href="#">My order</a></li>
                         <li><a href="#">Cart</a></li>
                         <li><a href="#">Help</a></li>
